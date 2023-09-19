@@ -1,5 +1,5 @@
 # git-practice
 This repo for Training 
 <br>
-Author - Aakash sharmapwd
+Author - Aakash Rao
 
